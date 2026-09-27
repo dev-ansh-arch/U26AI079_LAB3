@@ -16,7 +16,7 @@ int main(){
 
     }
     if(temp==checker) printf("the given number is ARMSTRONG");
-    else printf("the given number is ARMSTRONG");
+    else printf("the given number is not ARMSTRONG");
     return 0;
 
 }
